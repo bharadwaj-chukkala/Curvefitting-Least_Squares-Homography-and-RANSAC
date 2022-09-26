@@ -1,5 +1,6 @@
 # Curvefitting-Least_Squares-Homography-and-RANSAC
-ENPM667: Perception for Autonomous Robots
+
+#### ENPM667: Perception for Autonomous Robots
 
 ## Contents
 1. curve_fitting
