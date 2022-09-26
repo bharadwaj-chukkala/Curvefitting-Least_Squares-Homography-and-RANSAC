@@ -35,7 +35,7 @@ ENPM667: Perception for Autonomous Robots
 ![Problem 2 1](https://user-images.githubusercontent.com/106445479/192194107-27d973a3-69fb-4ad5-b1d7-f673447c7cbb.png) ![Problem 2 2](https://user-images.githubusercontent.com/106445479/192194157-e72854d4-7323-47dd-bffc-f8763b83aa5a.png)
 
 ### Least Squares                      
-#### Linear Least Squares ####                                   #### Total Least Squares
+#### Linear Least Squares                                                                  Total Least Squares
 ![Problem 3 LLS](https://user-images.githubusercontent.com/106445479/192194218-b29d7c98-9b65-40ef-92f6-920c579231e3.png) ![Problem 3 TLS](https://user-images.githubusercontent.com/106445479/192194269-20c33fac-d2e5-4afc-beb4-27750d848a5a.png)
 #### Principle components
 ![Problem 3 1](https://user-images.githubusercontent.com/106445479/192194308-3e1bedc5-37bd-46df-b534-af897cc22733.png)
